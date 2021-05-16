@@ -1,2 +1,2 @@
 # css-template-eatery
-A website for a restaurant using a CSS template
+A landing page for a restaurant using a CSS template
